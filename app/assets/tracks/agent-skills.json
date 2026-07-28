@@ -1,9 +1,8 @@
 {
   "sort": 3,
   "title": "Agent Skills",
-  "description": "Products supporting the .agents/skills folder standard for portable, reusable agent skills.",
+  "description": "The .agents/skills folder standard for portable, reusable agent skills.",
   "source": "https://agentskills.io",
-  "subject": "products",
   "yesLabel": "Adopted",
   "noLabel": "Not yet",
   "participants": {

@@ -30,6 +30,7 @@ export default defineNuxtConfig({
       wrangler: {
         name: 'ai-consensus',
         workers_dev: true,
+        preview_urls: true,
         route: {
           pattern: 'ai-consensus.by-ts.top',
           custom_domain: true,

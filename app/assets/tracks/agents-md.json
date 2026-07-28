@@ -1,9 +1,8 @@
 {
   "sort": 2,
   "title": "AGENTS.md",
-  "description": "Products adopting AGENTS.md — the open format that gives coding agents one predictable place for project instructions.",
+  "description": "The open format that gives coding agents one predictable place for project instructions.",
   "source": "https://agents.md",
-  "subject": "products",
   "yesLabel": "Adopted",
   "noLabel": "Not listed",
   "participants": {

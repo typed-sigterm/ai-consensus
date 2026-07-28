@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { Company, Product } from '~/utils/tracks';
+import type { Entity } from '~/utils/tracks';
 
 defineProps<{
-  entry: Company | Product
+  entry: Entity
   yes: boolean
   yesLabel: string
   noLabel: string
@@ -39,9 +39,9 @@ defineProps<{
         :class="yes ? 'text-highlighted' : 'text-muted'"
       >{{ entry.name }}</span>
       <span
-        v-if="'company' in entry && entry.company"
+        v-if="entry.byCompany"
         class="mt-0.5 text-center text-xs text-dimmed"
-      >by {{ entry.company }}</span>
+      >by {{ entry.byCompany }}</span>
     </template>
   </ULink>
 </template>

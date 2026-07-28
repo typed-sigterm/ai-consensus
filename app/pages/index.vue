@@ -35,11 +35,7 @@ import { tracks } from '~/utils/tracks';
           />
         </div>
 
-        <PollBar
-          :track
-          compact
-          class="mt-6"
-        />
+        <PollBar :track compact class="mt-6" />
       </UCard>
     </div>
   </UContainer>

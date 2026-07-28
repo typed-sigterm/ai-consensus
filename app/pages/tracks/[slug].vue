@@ -60,7 +60,7 @@ useHead({ title: `${track.title} · AI Consensus Tracker` });
         <EntityTile
           v-for="(yes, name) in track.participants"
           :key="name"
-          :entry="track.subject === 'companies' ? companies.get(name)! : products.get(name)!"
+          :entry="getEntity(name)"
           :yes
           :yes-label="track.yesLabel"
           :no-label="track.noLabel"

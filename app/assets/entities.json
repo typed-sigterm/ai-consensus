@@ -1,478 +1,986 @@
 [
   {
+    "name": "Adal",
+    "type": "product"
+  },
+  {
+    "name": "Aider",
+    "type": "product",
+    "url": "https://aider.chat"
+  },
+  {
+    "name": "AiderDesk",
+    "id": "aider-desk",
+    "type": "product",
+    "url": "https://github.com/hotovo/aider-desk"
+  },
+  {
+    "name": "Amp",
+    "type": "product",
+    "url": "https://ampcode.com",
+    "byCompany": "AMP"
+  },
+  {
+    "name": "Antigravity",
+    "type": "product",
+    "url": "https://antigravity.google",
+    "byCompany": "Google"
+  },
+  {
+    "name": "Antigravity CLI",
+    "type": "product",
+    "url": "https://antigravity.google",
+    "byCompany": "Google"
+  },
+  {
+    "name": "AstrBot",
+    "type": "product",
+    "url": "https://astrbot.app"
+  },
+  {
+    "name": "Augment Code",
+    "id": "augment",
+    "type": "product",
+    "url": "https://www.augmentcode.com"
+  },
+  {
+    "name": "Autohand Code",
+    "type": "product"
+  },
+  {
+    "name": "Bob",
+    "type": "product"
+  },
+  {
+    "name": "Claude Code",
+    "type": "product",
+    "url": "https://claude.com/product/claude-code",
+    "byCompany": "Anthropic"
+  },
+  {
+    "name": "Cline",
+    "type": "product",
+    "url": "https://cline.bot"
+  },
+  {
+    "name": "CodeArts Agent",
+    "type": "product",
+    "url": "https://www.huaweicloud.com/intl/en-us/product/codearts.html",
+    "byCompany": "Huawei"
+  },
+  {
+    "name": "CodeBuddy",
+    "type": "product",
+    "url": "https://www.codebuddy.ai",
+    "byCompany": "Tencent"
+  },
+  {
+    "name": "CodeMaker",
+    "type": "product",
+    "url": "https://codemaker.ai"
+  },
+  {
+    "name": "CodeStudio",
+    "type": "product"
+  },
+  {
+    "name": "Codex",
+    "type": "product",
+    "url": "https://openai.com/codex/",
+    "byCompany": "OpenAI"
+  },
+  {
+    "name": "Command Code",
+    "type": "product"
+  },
+  {
+    "name": "Continue",
+    "type": "product",
+    "url": "https://continue.dev"
+  },
+  {
+    "name": "Cortex",
+    "type": "product"
+  },
+  {
+    "name": "Crush",
+    "type": "product",
+    "url": "https://github.com/charmbracelet/crush",
+    "byCompany": "Charm"
+  },
+  {
+    "name": "Cursor",
+    "type": "product",
+    "url": "https://cursor.com"
+  },
+  {
+    "name": "DeepAgents",
+    "type": "product",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "byCompany": "LangChain"
+  },
+  {
+    "name": "Devin",
+    "type": "product",
+    "url": "https://devin.ai",
+    "byCompany": "Cognition"
+  },
+  {
+    "name": "Dexto",
+    "type": "product",
+    "url": "https://github.com/truffle-ai/dexto"
+  },
+  {
+    "name": "Droid",
+    "type": "product",
+    "url": "https://factory.ai",
+    "byCompany": "Factory"
+  },
+  {
+    "name": "Eve",
+    "type": "product"
+  },
+  {
+    "name": "Firebender",
+    "type": "product",
+    "url": "https://firebender.com"
+  },
+  {
+    "name": "Forge Code",
+    "id": "forgecode",
+    "type": "product",
+    "url": "https://forgecode.dev"
+  },
+  {
+    "name": "Gemini CLI",
+    "type": "product",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "byCompany": "Google"
+  },
+  {
+    "name": "GitHub Copilot",
+    "type": "product",
+    "url": "https://github.com/features/copilot",
+    "byCompany": "GitHub"
+  },
+  {
+    "name": "goose",
+    "type": "product",
+    "url": "https://block.github.io/goose/",
+    "byCompany": "Block"
+  },
+  {
+    "name": "Grok",
+    "type": "product",
+    "url": "https://grok.com",
+    "byCompany": "xAI"
+  },
+  {
+    "name": "Hermes Agent",
+    "type": "product",
+    "byCompany": "Nous Research"
+  },
+  {
+    "name": "iFlow CLI",
+    "type": "product",
+    "url": "https://iflow.cn",
+    "byCompany": "Alibaba"
+  },
+  {
+    "name": "inference.sh",
+    "type": "product",
+    "url": "https://inference.sh"
+  },
+  {
+    "name": "Jazz",
+    "type": "product"
+  },
+  {
+    "name": "Jules",
+    "type": "product",
+    "url": "https://jules.google",
+    "byCompany": "Google"
+  },
+  {
+    "name": "Junie",
+    "type": "product",
+    "url": "https://www.jetbrains.com/junie/",
+    "byCompany": "JetBrains"
+  },
+  {
+    "name": "Kilo Code",
+    "id": "kilo",
+    "type": "product",
+    "url": "https://kilocode.ai"
+  },
+  {
+    "name": "Kimchi",
+    "type": "product"
+  },
+  {
+    "name": "Kimi Code CLI",
+    "type": "product",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "byCompany": "Moonshot AI"
+  },
+  {
+    "name": "Kiro CLI",
+    "type": "product",
+    "url": "https://kiro.dev",
+    "byCompany": "Amazon"
+  },
+  {
+    "name": "Kode",
+    "type": "product"
+  },
+  {
+    "name": "Lingma",
+    "type": "product",
+    "url": "https://lingma.aliyun.com",
+    "byCompany": "Alibaba"
+  },
+  {
+    "name": "Loaf",
+    "type": "product"
+  },
+  {
+    "name": "MCPJam",
+    "type": "product",
+    "url": "https://www.mcpjam.com"
+  },
+  {
+    "name": "Mistral Vibe",
+    "type": "product",
+    "url": "https://github.com/mistralai/vibe",
+    "byCompany": "Mistral"
+  },
+  {
+    "name": "Moxby",
+    "type": "product"
+  },
+  {
+    "name": "Mux",
+    "type": "product"
+  },
+  {
+    "name": "Neovate",
+    "type": "product"
+  },
+  {
+    "name": "Ona",
+    "type": "product",
+    "url": "https://ona.com"
+  },
+  {
+    "name": "OpenClaw",
+    "type": "product",
+    "url": "https://openclaw.ai",
+    "byCompany": "OpenClaw"
+  },
+  {
+    "name": "opencode",
+    "type": "product",
+    "url": "https://opencode.ai"
+  },
+  {
+    "name": "OpenHands",
+    "type": "product",
+    "url": "https://all-hands.dev"
+  },
+  {
+    "name": "Phoenix",
+    "type": "product",
+    "url": "https://phoenix.new"
+  },
+  {
+    "name": "Pi",
+    "type": "product"
+  },
+  {
+    "name": "Pochi",
+    "type": "product",
+    "url": "https://getpochi.com"
+  },
+  {
+    "name": "PromptScript",
+    "type": "product"
+  },
+  {
+    "name": "Qoder",
+    "type": "product",
+    "url": "https://qoder.com",
+    "byCompany": "Alibaba"
+  },
+  {
+    "name": "Qwen Code",
+    "type": "product",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "byCompany": "Alibaba"
+  },
+  {
+    "name": "Reasonix",
+    "type": "product"
+  },
+  {
+    "name": "Replit",
+    "type": "product",
+    "url": "https://replit.com",
+    "byCompany": "Replit"
+  },
+  {
+    "name": "Roo Code",
+    "id": "roo",
+    "type": "product",
+    "url": "https://roocode.com"
+  },
+  {
+    "name": "Rovo Dev",
+    "id": "rovodev",
+    "type": "product",
+    "url": "https://www.atlassian.com/rovo",
+    "byCompany": "Atlassian"
+  },
+  {
+    "name": "Semgrep",
+    "type": "product",
+    "url": "https://semgrep.dev"
+  },
+  {
+    "name": "Tabnine CLI",
+    "type": "product",
+    "url": "https://www.tabnine.com",
+    "byCompany": "Tabnine"
+  },
+  {
+    "name": "TerraMind",
+    "type": "product"
+  },
+  {
+    "name": "TinyCloud",
+    "type": "product"
+  },
+  {
+    "name": "Trae",
+    "type": "product",
+    "url": "https://www.trae.ai",
+    "byCompany": "ByteDance"
+  },
+  {
+    "name": "UiPath Autopilot",
+    "type": "product",
+    "url": "https://www.uipath.com/product/autopilot",
+    "byCompany": "UiPath"
+  },
+  {
+    "name": "VS Code",
+    "id": "vscode",
+    "type": "product",
+    "url": "https://code.visualstudio.com",
+    "byCompany": "Microsoft"
+  },
+  {
+    "name": "Warp",
+    "type": "product",
+    "url": "https://warp.dev"
+  },
+  {
+    "name": "Windsurf",
+    "type": "product",
+    "url": "https://windsurf.com",
+    "byCompany": "Cognition"
+  },
+  {
+    "name": "ZCode",
+    "type": "product"
+  },
+  {
+    "name": "Zed",
+    "type": "product",
+    "url": "https://zed.dev"
+  },
+  {
+    "name": "Zencoder",
+    "type": "product",
+    "url": "https://zencoder.ai"
+  },
+  {
+    "name": "Zenflow",
+    "type": "product"
+  },
+  {
     "name": "Agno",
+    "type": "company",
     "url": "https://www.agno.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Agno_57.png"
   },
   {
     "name": "AI21",
+    "type": "company",
     "url": "https://www.ai21.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AI21.png"
   },
   {
     "name": "Alibaba",
+    "type": "company",
     "url": "https://www.alibaba.com"
   },
   {
     "name": "Amazon",
+    "type": "company",
     "url": "https://www.amazon.com"
   },
   {
     "name": "AMD",
+    "type": "company",
     "url": "https://www.amd.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AMD.png"
   },
   {
     "name": "American Innovators Network",
+    "type": "company",
     "url": "https://americaninnovatorsnetwork.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1.png"
   },
   {
     "name": "AMP",
+    "type": "company",
     "url": "https://ampcode.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AMP.png"
   },
   {
     "name": "Andreessen Horowitz",
+    "type": "company",
     "url": "https://a16z.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy.png"
   },
   {
     "name": "Anthropic",
+    "type": "company",
     "url": "https://www.anthropic.com"
   },
   {
     "name": "Apple",
+    "type": "company",
     "url": "https://www.apple.com"
   },
   {
     "name": "Applied Compute",
+    "type": "company",
     "url": "https://www.appliedcompute.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Applied-Compute.png"
   },
   {
     "name": "Arcee",
+    "type": "company",
     "url": "https://www.arcee.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-2-1.png"
   },
   {
     "name": "Arena",
+    "type": "company",
     "url": "https://www.arena.inc",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-3.png"
   },
   {
     "name": "Atlassian",
+    "type": "company",
     "url": "https://www.atlassian.com"
   },
   {
     "name": "Atreides Management",
+    "type": "company",
     "url": "https://www.atreidesmanagement.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Atreides-Management_76.png"
   },
   {
     "name": "Baseten",
+    "type": "company",
     "url": "https://www.baseten.co",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Baseten.png"
   },
   {
     "name": "Black Forest Labs",
+    "type": "company",
     "url": "https://bfl.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-4.png"
   },
   {
     "name": "Block",
+    "type": "company",
     "url": "https://block.xyz",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Block.png"
   },
   {
     "name": "Bolt",
+    "type": "company",
     "url": "https://bolt.new",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Bolt_53.png"
   },
   {
     "name": "Box",
+    "type": "company",
     "url": "https://www.box.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-5.png"
   },
   {
     "name": "Brampton",
+    "type": "company",
     "url": "https://brampton.ai"
   },
   {
     "name": "ByteDance",
+    "type": "company",
     "url": "https://www.bytedance.com"
   },
   {
     "name": "Camber",
+    "type": "company",
     "url": "https://www.cambercloud.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Camber_66-1024x576.png"
   },
   {
     "name": "Cerebras",
+    "type": "company",
     "url": "https://www.cerebras.ai"
   },
   {
     "name": "Charm",
+    "type": "company",
     "url": "https://charm.sh"
   },
   {
     "name": "Cisco",
+    "type": "company",
     "url": "https://www.cisco.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cisco_BG-1024x576.png"
   },
   {
     "name": "Cloudflare",
+    "type": "company",
     "url": "https://www.cloudflare.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cloudflare-1024x576.png"
   },
   {
     "name": "Cognition",
+    "type": "company",
     "url": "https://cognition.ai"
   },
   {
     "name": "Cohere",
+    "type": "company",
     "url": "https://cohere.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cohere_BG-1024x576.png"
   },
   {
     "name": "Core Automation",
+    "type": "company",
     "url": "https://www.coreauto.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/CoreAuto_56.png"
   },
   {
     "name": "CoreWeave",
+    "type": "company",
     "url": "https://www.coreweave.com"
   },
   {
     "name": "CrowdStrike",
+    "type": "company",
     "url": "https://www.crowdstrike.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/CrowdStrike_Logo_2023_Primary_Black.png"
   },
   {
     "name": "Databricks",
+    "type": "company",
     "url": "https://www.databricks.com"
   },
   {
     "name": "Dell Technologies",
+    "type": "company",
     "url": "https://www.dell.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-7.png"
   },
   {
     "name": "DoorDash",
+    "type": "company",
     "url": "https://www.doordash.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Doordash.png"
   },
   {
     "name": "EdgeRunner",
+    "type": "company",
     "url": "https://www.edgerunnerai.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Edgerunner_69.png"
   },
   {
     "name": "Emergence",
+    "type": "company",
     "url": "https://www.emergence.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-11.png"
   },
   {
     "name": "Exia Labs",
+    "type": "company",
     "url": "https://www.exialabs.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Exia-Labs_65-1024x576.png"
   },
   {
     "name": "Factory",
+    "type": "company",
     "url": "https://factory.ai"
   },
   {
     "name": "Fastino",
+    "type": "company",
     "url": "https://www.fastino.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Fastino_54-1024x576.png"
   },
   {
     "name": "Fireworks AI",
+    "type": "company",
     "url": "https://fireworks.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Fireworks_BG-1024x576.png"
   },
   {
     "name": "Genspark",
+    "type": "company",
     "url": "https://www.genspark.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Genspark-1024x576.png"
   },
   {
     "name": "GitHub",
+    "type": "company",
     "url": "https://github.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/GItHub_BG-1024x576.png"
   },
   {
     "name": "Glean",
+    "type": "company",
     "url": "https://www.glean.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Glean_62.png"
   },
   {
     "name": "Google",
+    "type": "company",
     "url": "https://www.google.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Google-1.png"
   },
   {
     "name": "GPU MODE",
+    "type": "company",
     "url": "https://www.gpumode.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/GPU-Mode_71.png"
   },
   {
     "name": "Huawei",
+    "type": "company",
     "url": "https://www.huawei.com"
   },
   {
     "name": "Hugging Face",
+    "type": "company",
     "url": "https://huggingface.co",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-8.png"
   },
   {
     "name": "humans&",
+    "type": "company",
     "url": "https://humansand.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Humans_63.png"
   },
   {
     "name": "IBM",
+    "type": "company",
     "url": "https://www.ibm.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-9.png"
   },
   {
     "name": "Inferact",
+    "type": "company",
     "url": "https://inferact.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Inferact.png"
   },
   {
     "name": "Intangible",
+    "type": "company",
     "url": "https://www.intangible.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Intangible_68.png"
   },
   {
     "name": "Intel",
+    "type": "company",
     "url": "https://www.intel.com"
   },
   {
     "name": "Interconnects AI",
+    "type": "company",
     "url": "https://www.interconnects.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Interconnects.png"
   },
   {
     "name": "JetBrains",
+    "type": "company",
     "url": "https://www.jetbrains.com"
   },
   {
     "name": "LangChain",
+    "type": "company",
     "url": "https://www.langchain.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/LangChain_61.png"
   },
   {
     "name": "Linux Foundation",
+    "type": "company",
     "url": "https://www.linuxfoundation.org",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-10-2.png"
   },
   {
     "name": "LM Studio",
+    "type": "company",
     "url": "https://lmstudio.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/LM-Studio_75.png"
   },
   {
     "name": "LMSYS",
+    "type": "company",
     "url": "https://lmsys.org",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Lmsys_59.png"
   },
   {
     "name": "Mariana Minerals",
+    "type": "company",
     "url": "https://marianaminerals.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-12-1.png"
   },
   {
     "name": "Meta",
+    "type": "company",
     "url": "https://www.meta.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-13-1.png"
   },
   {
     "name": "Microsoft",
+    "type": "company",
     "url": "https://www.microsoft.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-14-1.png"
   },
   {
     "name": "Mistral",
+    "type": "company",
     "url": "https://mistral.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Mistral-logo-with-matched-spacing.png"
   },
   {
     "name": "Modal",
+    "type": "company",
     "url": "https://modal.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Modal_73.png"
   },
   {
     "name": "Moonshot AI",
+    "type": "company",
     "url": "https://www.moonshot.ai"
   },
   {
     "name": "Morph",
+    "type": "company",
     "url": "https://morphllm.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Morph.png"
   },
   {
     "name": "Mozilla",
+    "type": "company",
     "url": "https://www.mozilla.org",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-16.png"
   },
   {
     "name": "Nebius",
+    "type": "company",
     "url": "https://nebius.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Nebius.png"
   },
   {
     "name": "Nous Research",
+    "type": "company",
     "url": "https://nousresearch.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Nous-Research.png"
   },
   {
     "name": "NVIDIA",
+    "type": "company",
     "url": "https://www.nvidia.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-17.png"
   },
   {
     "name": "Ollama",
+    "type": "company",
     "url": "https://ollama.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Ollama-1024x576.png"
   },
   {
     "name": "OpenAI",
+    "type": "company",
     "url": "https://openai.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/OpenAI_BG-1024x576.png"
   },
   {
     "name": "OpenClaw",
+    "type": "company",
     "url": "https://openclaw.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/OpenClaw.png"
   },
   {
     "name": "Oracle",
+    "type": "company",
     "url": "https://www.oracle.com"
   },
   {
     "name": "Palantir",
+    "type": "company",
     "url": "https://www.palantir.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-18.png"
   },
   {
     "name": "Palo Alto Networks",
+    "type": "company",
     "url": "https://www.paloaltonetworks.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Paloalto.png"
   },
   {
     "name": "Periodic Labs",
+    "type": "company",
     "url": "https://periodic.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Periodic-Labs.png"
   },
   {
     "name": "Perplexity",
+    "type": "company",
     "url": "https://www.perplexity.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-19.png"
   },
   {
     "name": "Plastic Labs",
+    "type": "company",
     "url": "https://plasticlabs.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Plastic-Labs_55.png"
   },
   {
     "name": "Prime Intellect",
+    "type": "company",
     "url": "https://www.primeintellect.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Prime-Intellect.png"
   },
   {
     "name": "PrismML",
+    "type": "company",
     "url": "https://prismml.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/PrismML_72.png"
   },
   {
     "name": "RadixArk",
+    "type": "company",
     "url": "https://www.radixark.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/RadixArk_58.png"
   },
   {
     "name": "Reflection",
+    "type": "company",
     "url": "https://reflection.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-20.png"
   },
   {
     "name": "Rehearsals",
+    "type": "company",
     "url": "https://www.runrehearsals.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Rehearsals_67.png"
   },
   {
     "name": "Replit",
+    "type": "company",
     "url": "https://replit.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-21.png"
   },
   {
     "name": "Sakana AI",
+    "type": "company",
     "url": "https://sakana.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sakana-AI_74.png"
   },
   {
     "name": "Scale",
+    "type": "company",
     "url": "https://scale.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Scale_70.png"
   },
   {
     "name": "ServiceNow",
+    "type": "company",
     "url": "https://www.servicenow.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-22.png"
   },
   {
     "name": "Snowflake",
+    "type": "company",
     "url": "https://www.snowflake.com"
   },
   {
     "name": "SpaceX",
+    "type": "company",
     "url": "https://www.spacex.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/SpaceX_60.png"
   },
   {
     "name": "Tabnine",
+    "type": "company",
     "url": "https://www.tabnine.com"
   },
   {
     "name": "Telnyx",
+    "type": "company",
     "url": "https://telnyx.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-23.png"
   },
   {
     "name": "Tencent",
+    "type": "company",
     "url": "https://www.tencent.com"
   },
   {
     "name": "Trajectory",
+    "type": "company",
     "url": "https://trajectorylabs.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Trajectory.png"
   },
   {
     "name": "UiPath",
+    "type": "company",
     "url": "https://www.uipath.com"
   },
   {
     "name": "Unsloth",
+    "type": "company",
     "url": "https://unsloth.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Unsloth_52.png"
   },
   {
     "name": "Unusual",
+    "type": "company",
     "url": "https://www.unusual.vc",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Unusual_77.png"
   },
   {
     "name": "Vercel",
+    "type": "company",
     "url": "https://vercel.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Vercel_51.png"
   },
   {
     "name": "xAI",
+    "type": "company",
     "url": "https://x.ai"
   },
   {
     "name": "Y Combinator",
+    "type": "company",
     "url": "https://www.ycombinator.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-24.png"
   }

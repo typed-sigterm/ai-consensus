@@ -1,9 +1,8 @@
 {
   "sort": 1,
   "title": "Open Weights and American AI Leadership",
-  "description": "Companies signing the open letter backing open-weight AI models as a pillar of American AI leadership.",
+  "description": "Supporting open-weight AI models as a pillar of American AI leadership.",
   "source": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-  "subject": "companies",
   "yesLabel": "Signed",
   "noLabel": "Holdouts",
   "participants": {

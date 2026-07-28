@@ -1,17 +1,15 @@
-import companiesRaw from '~/assets/companies.json';
-import productsRaw from '~/assets/products.json';
+import entitiesRaw from '~/assets/entities.json';
 
-export interface Company {
-  name: string
-  url: string
-  logo?: string
-}
+export type EntityType = 'company' | 'product';
 
-export interface Product {
+export interface Entity {
+  /** Explicit lookup key when it can't be derived from the name. */
+  id?: string
   name: string
+  type?: EntityType
   url?: string
   logo?: string
-  company?: string
+  byCompany?: string
 }
 
 export interface TrackData {
@@ -19,14 +17,26 @@ export interface TrackData {
   title: string
   description: string
   source: string
-  subject: 'companies' | 'products'
   yesLabel: string
   noLabel: string
   participants: Record<string, boolean>
 }
 
-export const companies = new Map((companiesRaw as Company[]).map(c => [c.name, c]));
-export const products = new Map((productsRaw as Product[]).map(p => [p.name, p]));
+const slugify = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+
+const entityMap = new Map<string, Entity>();
+for (const entity of entitiesRaw as Entity[]) {
+  entityMap.set(slugify(entity.name), entity);
+  entityMap.set(entity.name, entity);
+  if (entity.id)
+    entityMap.set(entity.id, entity);
+}
+
+export function getEntity(key: string): Entity {
+  if (!entityMap.has(key))
+    throw new Error(`Unknown entity: ${key}`);
+  return entityMap.get(key)!;
+}
 
 export const tracks: Record<string, TrackData> = Object.fromEntries(
   Object.entries(
