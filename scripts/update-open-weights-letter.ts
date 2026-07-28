@@ -18,6 +18,7 @@ const existingMap = existing.reduce<Record<string, Entity>>((acc, e) => {
   return acc;
 }, {});
 const adding: Entity[] = [];
+const fetchedIds: string[] = [];
 
 for (const el of $('.wp-block-image img')) {
   const name = el.attribs.alt?.trim()?.replace(' logo', '').replace(' Logo', '');
@@ -30,6 +31,7 @@ for (const el of $('.wp-block-image img')) {
   if (found) {
     if (!found.logo)
       found.logo = logo;
+    fetchedIds.push(found.id);
     continue;
   }
   const id = name
@@ -38,6 +40,7 @@ for (const el of $('.wp-block-image img')) {
     .toLowerCase()
     .replace(/^-+/, '');
   adding.push({ type: 'company', id, name, logo });
+  fetchedIds.push(id);
 }
 
 const entities = [...existing, ...adding].sort((a, b) => a.name.localeCompare(b.name));
@@ -45,8 +48,8 @@ writeFileSync(entitiesPath, JSON.stringify(entities, null, 2));
 appendFileSync(entitiesPath, '\n');
 
 const track = JSON.parse(readFileSync(trackPath, 'utf-8'));
-track.participants = adding.reduce<Record<string, boolean>>((acc, e) => {
-  acc[e.id] = true;
+track.participants = fetchedIds.reduce<Record<string, boolean>>((acc, id) => {
+  acc[id] = true;
   return acc;
 }, track.participants);
 track.participants = Object.fromEntries(
