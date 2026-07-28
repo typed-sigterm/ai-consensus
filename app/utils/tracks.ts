@@ -1,16 +1,5 @@
+import type { Entity } from '#shared/utils/data';
 import entitiesRaw from '~/assets/entities.json';
-
-export type EntityType = 'company' | 'product';
-
-export interface Entity {
-  /** Explicit lookup key when it can't be derived from the name. */
-  id?: string
-  name: string
-  type?: EntityType
-  url?: string
-  logo?: string
-  byCompany?: string
-}
 
 export interface TrackData {
   sort: number
@@ -22,15 +11,9 @@ export interface TrackData {
   participants: Record<string, boolean>
 }
 
-const slugify = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-
 const entityMap = new Map<string, Entity>();
-for (const entity of entitiesRaw as Entity[]) {
-  entityMap.set(slugify(entity.name), entity);
-  entityMap.set(entity.name, entity);
-  if (entity.id)
-    entityMap.set(entity.id, entity);
-}
+for (const entity of entitiesRaw as Entity[])
+  entityMap.set(entity.id, entity);
 
 export function getEntity(key: string): Entity {
   if (!entityMap.has(key))

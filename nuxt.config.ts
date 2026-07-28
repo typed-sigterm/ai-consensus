@@ -23,6 +23,15 @@ export default defineNuxtConfig({
     '/tracks/agent-skills': { prerender: true },
   },
 
+  typescript: {
+    nodeTsConfig: {
+      compilerOptions: {
+        lib: ['ESNext'],
+      },
+      include: ['../scripts/**/*'],
+    },
+  },
+
   nitro: {
     preset: 'cloudflare-module',
 

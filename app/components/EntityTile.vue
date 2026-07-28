@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Entity } from '~/utils/tracks';
+import type { Entity } from '#shared/utils/data';
 
 defineProps<{
   entry: Entity
