@@ -1,0 +1,28 @@
+{
+  "sort": 0,
+  "title": "Pacing the Frontier",
+  "description": "Leading AI labs ask Washington to sponsor international tools to pace frontier development.",
+  "source": "https://www.pacingthefrontier.com",
+  "yesLabel": "Support",
+  "noLabel": "Not support",
+  "participants": {
+    "@amazon": false,
+    "@anthropic": true,
+    "@arcee": false,
+    "@cohere": false,
+    "@cursor": false,
+    "@eleuther-ai": false,
+    "@google": false,
+    "@meta": false,
+    "@microsoft": false,
+    "@mistral": false,
+    "@nous-research": false,
+    "@openai": true,
+    "@prime-intellect": false,
+    "@ssi": false,
+    "@standardintelligence": false,
+    "@thinkingmachines": false,
+    "@x-ai": false,
+    "@zyphra": false
+  }
+}

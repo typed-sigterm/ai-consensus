@@ -34,12 +34,7 @@ useHead({ title: `${track.title} · AI Consensus Tracker` });
       </ULink>
     </header>
 
-    <PollBar
-      :track
-      :yes-label="track.yesLabel"
-      :no-label="track.noLabel"
-      class="mt-12"
-    />
+    <PollBar :track class="mt-12" />
 
     <section class="mt-14">
       <div class="flex items-center justify-between">

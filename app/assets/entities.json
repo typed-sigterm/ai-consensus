@@ -413,6 +413,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Crusoe_108.png"
   },
   {
+    "id": "@cursor",
+    "name": "Cursor",
+    "type": "company",
+    "url": "https://cursor.com"
+  },
+  {
     "id": "~cursor",
     "name": "Cursor",
     "type": "product",
@@ -1227,6 +1233,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Runway_85.png"
   },
   {
+    "id": "@ssi",
+    "type": "company",
+    "name": "Safe Superintelligence",
+    "url": "https://ssi.inc"
+  },
+  {
     "id": "@sakana-ai",
     "name": "Sakana AI",
     "type": "company",
@@ -1292,6 +1304,12 @@
   },
   {
     "type": "company",
+    "id": "@standardintelligence",
+    "name": "Standard Intelligence",
+    "url": "https://standardintelligence.com"
+  },
+  {
+    "type": "company",
     "id": "@sycamore-labs",
     "name": "Sycamore Labs",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sycamore-Labs_101.png"
@@ -1333,6 +1351,12 @@
     "name": "TerraMind",
     "type": "product",
     "url": "https://terramind.com"
+  },
+  {
+    "type": "company",
+    "id": "@thinkingmachines",
+    "name": "Thinking Machines",
+    "url": "https://thinkingmachines.ai"
   },
   {
     "id": "~tinycloud",
@@ -1485,5 +1509,11 @@
     "id": "@zoom",
     "name": "Zoom",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Zoom_128.png"
+  },
+  {
+    "type": "company",
+    "id": "@zyphra",
+    "name": "Zyphra",
+    "url": "https://zyphra.ai"
   }
 ]
