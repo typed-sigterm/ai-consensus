@@ -18,11 +18,11 @@ defineProps<{
     :class="[
       entry.url && 'hover:scale-[1.03] hover:shadow-md',
       entry.logo
-        ? 'overflow-hidden bg-white'
+        ? 'overflow-hidden'
         : 'flex flex-col items-center justify-center px-2',
       yes
         ? 'ring ring-primary/40 bg-primary/5'
-        : 'border border-dashed border-accented bg-elevated/50',
+        : 'border border-dashed border-accented',
     ]"
   >
     <img
@@ -41,7 +41,7 @@ defineProps<{
       <span
         v-if="entry.by"
         class="mt-0.5 text-center text-xs text-dimmed"
-      >by {{ entry.by }}</span>
+      >by {{ getEntity(entry.by).name }}</span>
     </template>
   </ULink>
 </template>

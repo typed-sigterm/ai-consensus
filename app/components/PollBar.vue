@@ -33,13 +33,6 @@ watch(() => props.track, () => {
         </p>
       </div>
 
-      <p
-        v-if="!compact"
-        class="hidden sm:block pb-1 text-sm text-muted"
-      >
-        {{ yes + no }} tracked
-      </p>
-
       <div class="text-right">
         <p class="text-xs font-semibold uppercase tracking-widest text-amber-500">
           {{ track.noLabel }}

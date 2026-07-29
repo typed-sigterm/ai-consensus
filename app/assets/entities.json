@@ -28,7 +28,7 @@
     "id": "~aider-desk",
     "name": "AiderDesk",
     "type": "product",
-    "url": "https://github.com/hotovo/aider-desk"
+    "url": "https://aiderdesk.hotovo.com"
   },
   {
     "id": "@alibaba",
@@ -468,7 +468,7 @@
     "id": "~dexto",
     "name": "Dexto",
     "type": "product",
-    "url": "https://github.com/truffle-ai/dexto"
+    "url": "https://www.dexto.ai"
   },
   {
     "type": "company",
@@ -576,7 +576,7 @@
     "id": "~gemini-cli",
     "name": "Gemini CLI",
     "type": "product",
-    "url": "https://github.com/google-gemini/gemini-cli",
+    "url": "https://geminicli.com",
     "by": "@google"
   },
   {
@@ -785,7 +785,7 @@
     "id": "~kimi-code-cli",
     "name": "Kimi Code CLI",
     "type": "product",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "url": "https://moonshotai.github.io/kimi-cli/",
     "by": "@moonshot-ai"
   },
   {
@@ -902,7 +902,7 @@
     "id": "~mistral-vibe",
     "name": "Mistral Vibe",
     "type": "product",
-    "url": "https://github.com/mistralai/vibe",
+    "url": "https://mistral.ai/products/vibe/",
     "by": "@mistral"
   },
   {
@@ -1134,8 +1134,8 @@
     "id": "~qwen-code",
     "name": "Qwen Code",
     "type": "product",
-    "url": "https://github.com/QwenLM/qwen-code",
-    "by": "@Alibaba"
+    "url": "https://qwen.ai/qwencode",
+    "by": "@alibaba"
   },
   {
     "id": "@radix-ark",

@@ -51,16 +51,16 @@ useHead({ title: `${track.title} · AI Consensus Tracker` });
             <span class="size-2.5 rounded-full bg-primary" /> {{ track.yesLabel }}
           </span>
           <span class="flex items-center gap-1.5">
-            <span class="size-2.5 rounded-full bg-inverted/50" /> {{ track.noLabel }}
+            <span class="size-2.5 rounded-full border border-accented" /> {{ track.noLabel }}
           </span>
         </div>
       </div>
 
       <div class="mt-4 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
         <EntityTile
-          v-for="(yes, name) in track.participants"
-          :key="name"
-          :entry="getEntity(name)"
+          v-for="(yes, id) in track.participants"
+          :key="id"
+          :entry="getEntity(id)"
           :yes
           :yes-label="track.yesLabel"
           :no-label="track.noLabel"
