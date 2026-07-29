@@ -39,9 +39,9 @@ defineProps<{
         :class="yes ? 'text-highlighted' : 'text-muted'"
       >{{ entry.name }}</span>
       <span
-        v-if="entry.byCompany"
+        v-if="entry.by"
         class="mt-0.5 text-center text-xs text-dimmed"
-      >by {{ entry.byCompany }}</span>
+      >by {{ entry.by }}</span>
     </template>
   </ULink>
 </template>

@@ -6,5 +6,5 @@ export interface Entity {
   type: EntityType
   url?: string
   logo?: string
-  byCompany?: string
+  by?: string
 }

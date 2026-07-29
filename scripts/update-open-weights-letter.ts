@@ -21,7 +21,7 @@ const adding: Entity[] = [];
 const fetchedIds: string[] = [];
 
 for (const el of $('.wp-block-image img')) {
-  const name = el.attribs.alt?.trim()?.replace(' logo', '').replace(' Logo', '');
+  const name = el.attribs.alt?.trim()?.replace(' logo', '').replace(' Logo', '').replace('_logo', '');
   const logo = el.attribs.src;
   if (!name || !logo) {
     console.error('Missing name or logo in', el);
@@ -34,7 +34,7 @@ for (const el of $('.wp-block-image img')) {
     fetchedIds.push(found.id);
     continue;
   }
-  const id = name
+  const id = `@${name}`
     .replace(/([A-Z][a-z]|[a-z])([A-Z])/g, '$1-$2')
     .replace(/ /g, '-')
     .toLowerCase()
