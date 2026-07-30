@@ -1,8 +1,26 @@
 [
   {
+    "type": "company",
+    "id": "@1789-capital",
+    "name": "1789 Capital",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/1789-Capital_208.png"
+  },
+  {
+    "type": "company",
+    "id": "@a.team",
+    "name": "A.Team",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/A.Team_211.png"
+  },
+  {
     "id": "~adal",
     "name": "Adal",
     "type": "product"
+  },
+  {
+    "type": "company",
+    "id": "@adaption",
+    "name": "Adaption",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Adaption_201.png"
   },
   {
     "id": "@agno",
@@ -10,6 +28,18 @@
     "type": "company",
     "url": "https://www.agno.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Agno_57.png"
+  },
+  {
+    "type": "company",
+    "id": "@ai-native-foundation",
+    "name": "AI Native Foundation",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AI-Native-Foundation_179.png"
+  },
+  {
+    "type": "company",
+    "id": "@ai-tinkerers",
+    "name": "AI Tinkerers",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AI-Tinkerers_223.png"
   },
   {
     "id": "@ai21",
@@ -57,7 +87,7 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AMD.png"
   },
   {
-    "id": "@american-innovators-network",
+    "id": "@americaninnovatorsnetwork",
     "name": "American Innovators Network",
     "type": "company",
     "url": "https://americaninnovatorsnetwork.com",
@@ -76,6 +106,18 @@
     "type": "company",
     "url": "https://ampcode.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/AMP.png"
+  },
+  {
+    "type": "company",
+    "id": "@amplitude",
+    "name": "Amplitude",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Amplitude_195.png"
+  },
+  {
+    "type": "company",
+    "id": "@anaconda",
+    "name": "Anaconda",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Anaconda_222.png"
   },
   {
     "id": "@andreessen-horowitz",
@@ -150,6 +192,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Armada_91-.png"
   },
   {
+    "type": "company",
+    "id": "@assembled",
+    "name": "Assembled",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Assembled_200.png"
+  },
+  {
     "id": "~astrbot",
     "name": "AstrBot",
     "type": "product",
@@ -159,7 +207,14 @@
     "id": "@atlassian",
     "name": "Atlassian",
     "type": "company",
-    "url": "https://www.atlassian.com"
+    "url": "https://www.atlassian.com",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Atlassian_230.png"
+  },
+  {
+    "type": "company",
+    "id": "@atomic-chat",
+    "name": "Atomic Chat",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Atomic-Chat_214.png"
   },
   {
     "id": "@atreides-management",
@@ -173,6 +228,12 @@
     "name": "Augment Code",
     "type": "product",
     "url": "https://www.augmentcode.com"
+  },
+  {
+    "type": "company",
+    "id": "@autohand-ai",
+    "name": "Autohand AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Autohand_167.png"
   },
   {
     "id": "~autohand-code",
@@ -198,6 +259,12 @@
     "type": "company",
     "url": "https://bfl.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-4.png"
+  },
+  {
+    "type": "company",
+    "id": "@blackbox-ai",
+    "name": "BLACKBOX AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Blackbox-AI_226.png"
   },
   {
     "id": "@block",
@@ -250,11 +317,23 @@
     "url": "https://www.bytedance.com"
   },
   {
+    "type": "company",
+    "id": "@cadence",
+    "name": "Cadence",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cadence_138-1024x576.png"
+  },
+  {
     "id": "@camber",
     "name": "Camber",
     "type": "company",
     "url": "https://www.cambercloud.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Camber_66-1024x576.png"
+  },
+  {
+    "type": "company",
+    "id": "@capy",
+    "name": "Capy",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Capy_225-1024x576.png"
   },
   {
     "id": "@cerebras",
@@ -267,6 +346,18 @@
     "name": "Charm",
     "type": "company",
     "url": "https://charm.sh"
+  },
+  {
+    "type": "company",
+    "id": "@cinder",
+    "name": "Cinder",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cinder_186-1024x576.png"
+  },
+  {
+    "type": "company",
+    "id": "@ciroos",
+    "name": "Ciroos",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Ciroos_176-1024x576.png"
   },
   {
     "id": "@cisco",
@@ -296,6 +387,12 @@
     "type": "product",
     "url": "https://cline.bot",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cline_122.png"
+  },
+  {
+    "type": "company",
+    "id": "@cloud-bees",
+    "name": "CloudBees",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/CloudBees_200-1024x576.png"
   },
   {
     "id": "@cloudflare",
@@ -338,10 +435,17 @@
     "by": "@openai"
   },
   {
+    "type": "company",
+    "id": "@cogensec",
+    "name": "Cogensec",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cogensec_177-1024x576.png"
+  },
+  {
     "id": "@cognition",
     "name": "Cognition",
     "type": "company",
-    "url": "https://cognition.ai"
+    "url": "https://cognition.ai",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cognition_157-1024x576.png"
   },
   {
     "id": "@cohere",
@@ -352,6 +456,18 @@
   },
   {
     "type": "company",
+    "id": "@cohesity",
+    "name": "Cohesity",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Cohesity_134.png"
+  },
+  {
+    "type": "company",
+    "id": "@coinbase",
+    "name": "Coinbase",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Coinbase_227.png"
+  },
+  {
+    "type": "company",
     "id": "@comcast",
     "name": "Comcast",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Comcast_78.png"
@@ -359,7 +475,14 @@
   {
     "id": "~command-code",
     "name": "Command Code",
-    "type": "product"
+    "type": "product",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Command-Code_155.png"
+  },
+  {
+    "type": "company",
+    "id": "@composio",
+    "name": "Composio",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Composio_153.png"
   },
   {
     "id": "~continue",
@@ -391,6 +514,18 @@
     "id": "~cortex",
     "name": "Cortex",
     "type": "product"
+  },
+  {
+    "type": "company",
+    "id": "@corvic-ai",
+    "name": "Corvic AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Corvic.AI_178.png"
+  },
+  {
+    "type": "company",
+    "id": "@criteria-corp",
+    "name": "Criteria Corp",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Criteria-Corp_232.png"
   },
   {
     "id": "@crowdstrike",
@@ -425,6 +560,12 @@
     "url": "https://cursor.com"
   },
   {
+    "type": "company",
+    "id": "@dart",
+    "name": "DART",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Dart-Health_221.png"
+  },
+  {
     "id": "@databricks",
     "name": "Databricks",
     "type": "company",
@@ -457,11 +598,23 @@
     "by": "@langchain"
   },
   {
+    "type": "company",
+    "id": "@defense-unicorns",
+    "name": "Defense Unicorns",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Defense-Unicorns_143.png"
+  },
+  {
     "id": "@dell-technologies",
     "name": "Dell Technologies",
     "type": "company",
     "url": "https://www.dell.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-7.png"
+  },
+  {
+    "type": "company",
+    "id": "@depthfirst",
+    "name": "depthfirst",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/DepthFirst_189.png"
   },
   {
     "id": "~devin",
@@ -475,6 +628,12 @@
     "name": "Dexto",
     "type": "product",
     "url": "https://www.dexto.ai"
+  },
+  {
+    "type": "company",
+    "id": "@digital-ocean",
+    "name": "DigitalOcean",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Digital-Ocean_130.png"
   },
   {
     "type": "company",
@@ -511,9 +670,21 @@
   },
   {
     "type": "company",
+    "id": "@elastic",
+    "name": "Elastic",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Elastic_146.png"
+  },
+  {
+    "type": "company",
     "id": "@eleuther-ai",
     "name": "EleutherAI",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/EleutherAI_79.png"
+  },
+  {
+    "type": "company",
+    "id": "@elorian-ai",
+    "name": "Elorian AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Elorian-AI_190.png"
   },
   {
     "id": "@emergence",
@@ -527,6 +698,18 @@
     "id": "@emergent",
     "name": "Emergent",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Emergent-Labs_89.png"
+  },
+  {
+    "type": "company",
+    "id": "@endex",
+    "name": "Endex",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Endex_172-1024x576.png"
+  },
+  {
+    "type": "company",
+    "id": "@eox-vantage",
+    "name": "EOX Vantage",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/EOX-Vantage_195-1024x576.png"
   },
   {
     "id": "~eve",
@@ -544,7 +727,8 @@
     "id": "@factory",
     "name": "Factory",
     "type": "company",
-    "url": "https://factory.ai"
+    "url": "https://factory.ai",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Factory-AI_141-1024x576.png"
   },
   {
     "id": "@fastino",
@@ -552,6 +736,12 @@
     "type": "company",
     "url": "https://www.fastino.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Fastino_54-1024x576.png"
+  },
+  {
+    "type": "company",
+    "id": "@featherless",
+    "name": "Featherless",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Featherless-AI_184-1024x576.png"
   },
   {
     "id": "~firebender",
@@ -565,6 +755,12 @@
     "type": "company",
     "url": "https://fireworks.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Fireworks_BG-1024x576.png"
+  },
+  {
+    "type": "company",
+    "id": "@fleet",
+    "name": "Fleet",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/FleetAI_169.png"
   },
   {
     "id": "~forgecode",
@@ -584,6 +780,12 @@
     "type": "product",
     "url": "https://geminicli.com",
     "by": "@google"
+  },
+  {
+    "type": "company",
+    "id": "@general-catalyst",
+    "name": "General Catalyst",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/General-Catalyst_198-1024x576.png"
   },
   {
     "id": "@genspark",
@@ -621,9 +823,21 @@
   },
   {
     "type": "company",
+    "id": "@glemad",
+    "name": "Glemad",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Glemad_166.png"
+  },
+  {
+    "type": "company",
     "id": "@gmi-cloud",
     "name": "GMI Cloud",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/GMI-Cloud_102.png"
+  },
+  {
+    "type": "company",
+    "id": "@go-daddy",
+    "name": "GoDaddy",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/GoDaddy_142.png"
   },
   {
     "type": "company",
@@ -704,6 +918,30 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Humans_63.png"
   },
   {
+    "type": "company",
+    "id": "@hyde",
+    "name": "Hyde",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Hyde_188.png"
+  },
+  {
+    "type": "company",
+    "id": "@hydra-host",
+    "name": "Hydra Host",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/HydraHost_207.png"
+  },
+  {
+    "type": "company",
+    "id": "@hyland",
+    "name": "Hyland",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Hyland_147.png"
+  },
+  {
+    "type": "company",
+    "id": "@hyperbolic",
+    "name": "Hyperbolic",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Hyperbolic_136.png"
+  },
+  {
     "id": "@ibm",
     "name": "IBM",
     "type": "company",
@@ -731,6 +969,12 @@
     "url": "https://inference.sh"
   },
   {
+    "type": "company",
+    "id": "@infer-x",
+    "name": "InferX",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/InferX_150.png"
+  },
+  {
     "id": "@intangible",
     "name": "Intangible",
     "type": "company",
@@ -750,6 +994,12 @@
     "type": "company",
     "url": "https://www.interconnects.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Interconnects.png"
+  },
+  {
+    "type": "company",
+    "id": "@isomer",
+    "name": "Isomer",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Isomer_187.png"
   },
   {
     "id": "~jazz",
@@ -795,6 +1045,12 @@
     "by": "@moonshot-ai"
   },
   {
+    "type": "company",
+    "id": "@kindo",
+    "name": "Kindo",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Kindo_174.png"
+  },
+  {
     "id": "~kiro-cli",
     "name": "Kiro CLI",
     "type": "product",
@@ -807,11 +1063,41 @@
     "type": "product"
   },
   {
+    "type": "company",
+    "id": "@kong",
+    "name": "Kong",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Kong_233.png"
+  },
+  {
+    "type": "company",
+    "id": "@kyndryl",
+    "name": "Kyndryl",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Kyndryl_231.png"
+  },
+  {
+    "type": "company",
+    "id": "@lambda",
+    "name": "Lambda",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Lambda_203.png"
+  },
+  {
     "id": "@langchain",
     "name": "LangChain",
     "type": "company",
     "url": "https://www.langchain.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/LangChain_61.png"
+  },
+  {
+    "type": "company",
+    "id": "@latitude.sh",
+    "name": "Latitude.sh",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Latitude.sh_212.png"
+  },
+  {
+    "type": "company",
+    "id": "@lenovo",
+    "name": "Lenovo",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Lenovo_235.png"
   },
   {
     "type": "company",
@@ -846,6 +1132,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Liquid-AI_115.png"
   },
   {
+    "type": "company",
+    "id": "@lithos-ai",
+    "name": "LithosAI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/LithosAI_183.png"
+  },
+  {
     "id": "@lm-studio",
     "name": "LM Studio",
     "type": "company",
@@ -865,6 +1157,12 @@
     "type": "product"
   },
   {
+    "type": "company",
+    "id": "@makora",
+    "name": "Makora",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Makora_182.png"
+  },
+  {
     "id": "@mariana-minerals",
     "name": "Mariana Minerals",
     "type": "company",
@@ -879,6 +1177,18 @@
   },
   {
     "type": "company",
+    "id": "@megaport",
+    "name": "Megaport",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Megaport-Compute_213.png"
+  },
+  {
+    "type": "company",
+    "id": "@megaton-ai",
+    "name": "Megaton AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Megaton-AI_189.png"
+  },
+  {
+    "type": "company",
     "id": "@merge-dev",
     "name": "Merge Dev",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Merge-Dev_106.png"
@@ -889,6 +1199,12 @@
     "type": "company",
     "url": "https://www.meta.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-13-1.png"
+  },
+  {
+    "type": "company",
+    "id": "@microagi",
+    "name": "microagi",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/microagi_163.png"
   },
   {
     "id": "@microsoft",
@@ -962,6 +1278,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Neon_88.png"
   },
   {
+    "type": "company",
+    "id": "@neosigma",
+    "name": "NeoSigma",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/NeoSigma_170.png"
+  },
+  {
     "id": "~neovate",
     "name": "Neovate",
     "type": "product"
@@ -971,6 +1293,24 @@
     "id": "@netlify",
     "name": "Netlify",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Netlify_100.png"
+  },
+  {
+    "type": "company",
+    "id": "@noah-labs",
+    "name": "Noah Labs",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Noah-Labs_170.png"
+  },
+  {
+    "type": "company",
+    "id": "@nokia",
+    "name": "Nokia",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Nokia_135.png"
+  },
+  {
+    "type": "company",
+    "id": "@nollahealth",
+    "name": "Nolla Health",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Nolla-Health_206-1.png"
   },
   {
     "type": "company",
@@ -1004,6 +1344,24 @@
     "name": "Ona",
     "type": "product",
     "url": "https://ona.com"
+  },
+  {
+    "type": "company",
+    "id": "@openathena",
+    "name": "Open Athena",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Open-Athena-AI_199.png"
+  },
+  {
+    "type": "company",
+    "id": "@open-compute",
+    "name": "Open Compute Project Foundation",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Open-Compute-Project-Foundation_220.png"
+  },
+  {
+    "type": "company",
+    "id": "@open-webui",
+    "name": "Open WebUI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/OpenWeb-UI_201-1-1024x576.png"
   },
   {
     "id": "@openai",
@@ -1052,6 +1410,18 @@
     "url": "https://www.oracle.com"
   },
   {
+    "type": "company",
+    "id": "@osmantic",
+    "name": "Osmantic",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Osmantic_140.png"
+  },
+  {
+    "type": "company",
+    "id": "@oumi",
+    "name": "Oumi",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Oumi_158.png"
+  },
+  {
     "id": "@palantir",
     "name": "Palantir",
     "type": "company",
@@ -1091,6 +1461,12 @@
     "type": "product"
   },
   {
+    "type": "company",
+    "id": "@pinterest",
+    "name": "Pinterest",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Pinterest_148.png"
+  },
+  {
     "id": "@plastic-labs",
     "name": "Plastic Labs",
     "type": "company",
@@ -1098,10 +1474,22 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Plastic-Labs_55.png"
   },
   {
+    "type": "company",
+    "id": "@playerzero",
+    "name": "PlayerZero",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/PlayerZero_224.png"
+  },
+  {
     "id": "~pochi",
     "name": "Pochi",
     "type": "product",
     "url": "https://getpochi.com"
+  },
+  {
+    "type": "company",
+    "id": "@poolside",
+    "name": "Poolside",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Poolside_202-1.png"
   },
   {
     "type": "company",
@@ -1144,6 +1532,12 @@
     "by": "@alibaba"
   },
   {
+    "type": "company",
+    "id": "@rackspace",
+    "name": "Rackspace",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/RackSpace-Technology_162.png"
+  },
+  {
     "id": "@radix-ark",
     "name": "RadixArk",
     "type": "company",
@@ -1157,9 +1551,21 @@
   },
   {
     "type": "company",
+    "id": "@redblock",
+    "name": "Redblock",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Redblock-Security_168.png"
+  },
+  {
+    "type": "company",
     "id": "@redhat",
     "name": "RedHat",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/RedHat_81.png"
+  },
+  {
+    "type": "company",
+    "id": "@redis",
+    "name": "Redis",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Redis_157.png"
   },
   {
     "type": "company",
@@ -1173,6 +1579,12 @@
     "type": "company",
     "url": "https://reflection.ai",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-20.png"
+  },
+  {
+    "type": "company",
+    "id": "@regal",
+    "name": "Regal",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Regal_198.png"
   },
   {
     "id": "@rehearsals",
@@ -1214,6 +1626,24 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Ricursive-Intelligence_107.png"
   },
   {
+    "type": "company",
+    "id": "@rightnow-ai",
+    "name": "RightNow AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/RightNow-AI_150.png"
+  },
+  {
+    "type": "company",
+    "id": "@rillet",
+    "name": "Rillet",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Rillet_164.png"
+  },
+  {
+    "type": "company",
+    "id": "@rogo",
+    "name": "Rogo",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Rogo-Technologies_154.png"
+  },
+  {
     "id": "~roo",
     "name": "Roo Code",
     "type": "product",
@@ -1247,9 +1677,21 @@
   },
   {
     "type": "company",
+    "id": "@sf-tools",
+    "name": "San Francisco Tooling Company",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/San-Francisco-Tooling-Company_154.png"
+  },
+  {
+    "type": "company",
     "id": "@sap",
     "name": "SAP",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/SAP_119.png"
+  },
+  {
+    "type": "company",
+    "id": "@sapiom",
+    "name": "Sapiom",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sapiom_171.png"
   },
   {
     "id": "@scale",
@@ -1259,10 +1701,34 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Scale_70.png"
   },
   {
+    "type": "company",
+    "id": "@scarfinc",
+    "name": "Scarf",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Scarf_209.png"
+  },
+  {
+    "type": "company",
+    "id": "@sculptor-ai",
+    "name": "Sculptor AI",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/SculptorAI.org_216.png"
+  },
+  {
+    "type": "company",
+    "id": "@seekr",
+    "name": "Seekr",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Seekr_217.png"
+  },
+  {
     "id": "~semgrep",
     "name": "Semgrep",
     "type": "product",
     "url": "https://semgrep.dev"
+  },
+  {
+    "type": "company",
+    "id": "@serpapi",
+    "name": "SerpApi",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/SerpApi_194.png"
   },
   {
     "id": "@service-now",
@@ -1270,6 +1736,12 @@
     "type": "company",
     "url": "https://www.servicenow.com",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Untitled-2Artboard-1-copy-22.png"
+  },
+  {
+    "type": "company",
+    "id": "@sf-tensor",
+    "name": "SF Tensor",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/SF-Tensor_149.png"
   },
   {
     "type": "company",
@@ -1287,7 +1759,20 @@
     "id": "@snowflake",
     "name": "Snowflake",
     "type": "company",
-    "url": "https://www.snowflake.com"
+    "url": "https://www.snowflake.com",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Snowflake_234.png"
+  },
+  {
+    "type": "company",
+    "id": "@socket-security",
+    "name": "Socket",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Socket_210.png"
+  },
+  {
+    "type": "company",
+    "id": "@sonarsource",
+    "name": "Sonar",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sonar_227.png"
   },
   {
     "id": "@spacex",
@@ -1304,15 +1789,51 @@
   },
   {
     "type": "company",
+    "id": "@stacksync",
+    "name": "Stacksync",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Stacksync-Inc_196.png"
+  },
+  {
+    "type": "company",
     "id": "@standardintelligence",
     "name": "Standard Intelligence",
     "url": "https://standardintelligence.com"
   },
   {
     "type": "company",
+    "id": "@sully.ai",
+    "name": "Sully.ai",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sully_182.png"
+  },
+  {
+    "type": "company",
+    "id": "@superhuman",
+    "name": "Superhuman",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Superhuman_205.png"
+  },
+  {
+    "type": "company",
+    "id": "@supermemory",
+    "name": "Supermemory",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Supermemory_218.png"
+  },
+  {
+    "type": "company",
+    "id": "@superserve",
+    "name": "Superserve",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Superserve_215.png"
+  },
+  {
+    "type": "company",
     "id": "@sycamore-labs",
     "name": "Sycamore Labs",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Sycamore-Labs_101.png"
+  },
+  {
+    "type": "company",
+    "id": "@synopsys",
+    "name": "Synopsys",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Synopsys_137.png"
   },
   {
     "id": "@tabnine",
@@ -1377,6 +1898,12 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Together_82.png"
   },
   {
+    "type": "company",
+    "id": "@tolmo",
+    "name": "Tolmo",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Tolmo_181.png"
+  },
+  {
     "id": "~trae",
     "name": "Trae",
     "type": "product",
@@ -1422,6 +1949,12 @@
     "by": "@uipath"
   },
   {
+    "type": "company",
+    "id": "@uniphore",
+    "name": "Uniphore",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Uniphore_228.png"
+  },
+  {
     "id": "@unsloth",
     "name": "Unsloth",
     "type": "company",
@@ -1443,6 +1976,18 @@
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Vercel_51.png"
   },
   {
+    "type": "company",
+    "id": "@verda",
+    "name": "Verda",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Verda_161.png"
+  },
+  {
+    "type": "company",
+    "id": "@vocara",
+    "name": "Vocara",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Vocara_175.png"
+  },
+  {
     "id": "~vscode",
     "name": "VS Code",
     "type": "product",
@@ -1456,6 +2001,18 @@
     "url": "https://warp.dev"
   },
   {
+    "type": "company",
+    "id": "@webflow",
+    "name": "Webflow",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Webflow_219.png"
+  },
+  {
+    "type": "company",
+    "id": "@willowvoice",
+    "name": "Willow Voice",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Willow-Voice_177.png"
+  },
+  {
     "id": "~windsurf",
     "name": "Windsurf",
     "type": "product",
@@ -1464,15 +2021,39 @@
   },
   {
     "type": "company",
+    "id": "@wordpress",
+    "name": "WordPress.org",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/WordPress.org_204.png"
+  },
+  {
+    "type": "company",
+    "id": "@workday",
+    "name": "Workday",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Workday_139.png"
+  },
+  {
+    "type": "company",
     "id": "@writer",
     "name": "Writer",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Writer_117.png"
+  },
+  {
+    "type": "company",
+    "id": "@wrynx",
+    "name": "Wrynx",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Wrynx_191.png"
   },
   {
     "id": "@x-ai",
     "name": "xAI",
     "type": "company",
     "url": "https://x.ai"
+  },
+  {
+    "type": "company",
+    "id": "@xpander.ai",
+    "name": "xpander.ai",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/XpanderAI_165.png"
   },
   {
     "id": "@ycombinator",
@@ -1500,6 +2081,12 @@
     "url": "https://zencoder.ai"
   },
   {
+    "type": "company",
+    "id": "@zendesk",
+    "name": "Zendesk",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Zendesk_144.png"
+  },
+  {
     "id": "~zenflow",
     "name": "Zenflow",
     "type": "product"
@@ -1509,6 +2096,12 @@
     "id": "@zoom",
     "name": "Zoom",
     "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Zoom_128.png"
+  },
+  {
+    "type": "company",
+    "id": "@zscaler",
+    "name": "Zscaler",
+    "logo": "https://www.microsoft.com/en-us/corporate-responsibility/wp-content/uploads/2026/07/Zscaler_197.png"
   },
   {
     "type": "company",
